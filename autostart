@@ -1,0 +1,4 @@
+setxkbmap -model pc105 -layout us,il -option grp:alt_space_toggle
+tint2&
+flameshot &
+/usr/lib/openbox/openbox-xdg-autostart
