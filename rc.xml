@@ -329,10 +329,10 @@
         <direction>down</direction>
       </action>
     </keybind>
-    <keybind key="W-space">
+    <keybind key="A-F2">
       <action name="Execute">
         <name>dmenu</name>
-        <command>rofi -show drun -font "Myriad Pro 14" -terminal terminator</command>
+        <command>rofi -show drun -font "Ubuntu 14" -terminal terminator</command>
       </action>
     </keybind>
   </keyboard>
