@@ -332,7 +332,7 @@
     <keybind key="A-F2">
       <action name="Execute">
         <name>dmenu</name>
-        <command>rofi -show drun -font "Ubuntu 14" -terminal terminator</command>
+        <command>rofi -show drun -font "Ubuntu 12" -terminal konsole -show-icons -theme /usr/share/rofi/themes/Arc-Dark.rasi</command>
       </action>
     </keybind>
   </keyboard>
